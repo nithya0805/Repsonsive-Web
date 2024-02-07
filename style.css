@@ -1,0 +1,15 @@
+.screeens{
+    background-color: #abeded;
+}
+
+@media screen  and (max-width : 576px) {
+    .screeens{
+        background-color:rgb(239, 162, 162);
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 1000px){
+    .screeens{
+        background-color:blueviolet;
+    }
+}
